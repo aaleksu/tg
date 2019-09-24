@@ -103,3 +103,7 @@ class Update:
                 entities
             )
         )
+
+    def foo(self):
+        print("bar")
+
