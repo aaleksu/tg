@@ -104,6 +104,3 @@ class Update:
             )
         )
 
-    def foo(self):
-        print("bar")
-
